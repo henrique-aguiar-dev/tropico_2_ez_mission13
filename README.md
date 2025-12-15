@@ -1,4 +1,4 @@
-# tropico_2_ez_mission13
+# Tropico 2 - Pirate Cove EZ mod
 Tropico 2 Pirate Cove campaign: Mission: A New War made easier
 
 Changes made:
@@ -9,3 +9,4 @@ Changes made:
 2. Extract to game directory
    Steam version = :\Program Files (x86)\Steam\steamapps\common\Tropico\Maps
    CD version = :\Program Files\Tropico2\Maps
+3. It will ask you to replace the original "Episode13.txt" file. If you want, make a backup, then replace it.
